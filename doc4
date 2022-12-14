@@ -1,1 +1,4 @@
 git tag <tag-name>
+git checkout b
+
+$ git merge a
